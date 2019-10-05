@@ -9,4 +9,5 @@
 - F1-score is the harmonic mean of Precision and Recall and gives a better measure of the incorrectly classified cases than the Accuracy Metric.
 - Stratified 10-fold cross validation has been used to train our model. It helps in knowing how the machine learning model would generalize to an independent data set. It can be also considered as resampling procedure. K-fold cross validation can be said as mirror to the performance of an algorithm.
 - As the dataset is too large, Model need to be trained on GPU for the best result. By increasing the number of epochs accuracy is increasing. As we have limited resources to train the model current results are as following :  
+
 ![](https://i.imgur.com/yeF8c2X.png) 
