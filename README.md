@@ -1,2 +1,7 @@
 # CNN
- 
+
+---------- 
+
+# Author: Zohreh Raziei 
+
+-----------
